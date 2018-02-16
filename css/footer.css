@@ -1,0 +1,9 @@
+.footer{
+	height:250px;
+	background: url(../img/home/footer.jpg) center bottom no-repeat;
+	text-align: center;
+	
+}
+.footer p{
+	padding-top:150px;
+}

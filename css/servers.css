@@ -1,0 +1,85 @@
+.page-breadcrumb {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 70px;
+	background: url(../img/servers/tour-bg.png) repeat-x;
+}
+
+.page-breadcrumb h1 {
+	padding-bottom: 16px;
+	font-size: 36px;
+}
+
+.service-body {
+	padding-top: 30px;
+}
+
+.service-body {
+	-moz-column-count: 4;
+	/* Firefox */
+	-webkit-column-count: 4;
+	/* Safari 和 Chrome */
+	column-count: 4;
+	-moz-column-gap: 1em;
+	-webkit-column-gap: 1em;
+	column-gap: 1em;
+}
+.service-item{
+	
+      margin: 0 0 1em 0;
+      -moz-page-break-inside: avoid;
+      -webkit-column-break-inside: avoid;
+      break-inside: avoid;
+    
+}
+.service-pic{
+	padding-bottom: 10px;
+}
+.service-item h2{
+	font-size:20px;
+	    color: #686868;
+	    line-height: :;;
+}
+.service-font{
+	font-weight: 300;
+    font-size: 14px;
+    color: #0099AE;
+}
+.post-author{
+	line-height:26px;
+	display: block;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.service-summary{
+	    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000;
+}
+.read-more{
+		font-weight: 300;
+    font-size: 14px;
+    color: #0099AE;
+    display: block;
+    padding-top:10px;
+   
+}
+.service-item-bottom a{
+	display: inline-block;
+	width:49%;
+	padding-top:10px;
+	padding-bottom: 10px;
+	
+	border-bottom: 1px solid #eee;
+	 font-size: 14px;
+    color: #0099AE;
+}
+.creative{
+	    color: #0099AE;
+}
+.service-pic img{
+	width:90%;
+	height:auto;
+}

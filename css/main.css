@@ -1,0 +1,156 @@
+.banner {
+	background: url(../img/home/slider-bg.png) 0 100% repeat-x;
+}
+
+.bannerinfo {
+	width: 500px;
+	padding-top: 200px;
+}
+
+.bannerinfo h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #686868;
+	padding-bottom: 30px;
+	font-size: 34px;
+}
+
+.bannerinfo p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 22px;
+	color: #000;
+}
+
+.bannerhill {
+	bottom: 0px;
+	right: 0px;
+}
+
+.bannerhouse {
+	bottom: -30px;
+	right: 50px;
+}
+
+.search {
+	height: 60px;
+	line-height: 60px;
+	font-family: "Exo";
+	font-weight: 600;
+	color: #572a17;
+	line-height: 24px;
+	letter-spacing: 0px;
+	padding-left: 50px;
+	padding-top: 30px;
+}
+
+.benefit ul {
+	width: 1340px;
+}
+
+.benefit li {
+	width: 334px;
+	height: 304px;
+	
+	margin-left: 1px;
+}
+
+.benefit li:first-child {
+	width: 335px;
+}
+
+.morebeneifitleft {
+	width: 335px;
+	height: 610px;
+	background: url(../img/home/gap.jpg) no-repeat center center !important;
+	background-size: 335px 610px !important;
+	margin-left: 1px;
+}
+
+.moreBeneifitRight_top {}
+
+.moreBeneifitRight_top li {
+	float: left;
+	width: 334px;
+	height: 304px;
+	background: #808080;
+	margin-left: 1px;
+	margin-top: 1px;parentBenefit
+}
+.moreBeneifitRight_top li:first-child{
+	background: url(../img/home/5.jpg);
+}
+
+.moreBeneifitRight_top li:nth-child(2){
+	background: url(../img/home/7.jpg);
+}
+.moreBeneifitRight_top li:nth-child(3){
+	background: #fff;
+}
+.moreBeneifitRight_center li {
+	height: 305px;
+	background: #808080;
+	float: left;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+.moreBeneifitRight_center li:first-child {
+	width: 605px;
+	background: url(../img/home/6.jpg);
+}
+
+.moreBeneifitRight_center li:nth-child(2) {
+	width: 399px;
+}
+
+.benefitdetail {
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background: rgba(0,0,0,.6);
+}
+
+.benefitdetail h3 {
+	font-family: "Exo";
+	font-weight: bold;
+	font-size: 30px;
+	color: #fff;
+	padding-top: 80px;
+	text-align: center;
+}
+.benefitdetail p{
+	    font-weight: 600;
+    font-family: "Exo";
+    font-size: 15px;
+    color:#fff;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top:30px;
+    text-indent: 1em;
+    line-height: 30px;
+}
+.parentBenefit:hover .benefitdetail{
+		display: block;
+}
+.benefit li{
+	cursor: pointer;
+}
+.parentBenefit:first-child{
+	background: url(../img/home/1.jpg);
+}
+.parentBenefit:nth-child(2){
+	background: url(../img/home/2.jpg);
+}
+.parentBenefit:nth-child(3){
+	background: url(../img/home/3.jpg);
+}
+.parentBenefit:nth-child(4){
+	background: url(../img/home/4.jpg);
+}
+
+.moreBeneifitRight_center li:last-child{
+	background: url(../img/home/last.jpg);
+}

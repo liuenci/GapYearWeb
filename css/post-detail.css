@@ -1,0 +1,167 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+
+#title-container{
+	width: 1200px;
+	height: 130px;
+	margin-top:20px;
+	background-image:url(../img/tour-bg.png);
+	position:relative;
+}
+#main-title{
+	position: absolute;
+	width: 100%;
+	height:39px;
+	font-size: 36px;
+	text-indent:30px;
+	margin-top: 30px;
+}
+#sub-title{
+	position:absolute;
+	width: 100%;
+	height: 22px;
+	font-size:20px;
+	text-indent:30px;
+	margin-top: 70px;
+}
+#row{
+	width:1200px;
+	height:920px;
+}
+#row-left{
+	width:850px;
+	height:920px;
+	float: left;
+}
+#row-right{
+	width:300px;
+	height:920px;
+	float: right;
+}
+#post-content{
+	width:850px;
+	margin:0 auto;
+}
+#post-content img{
+	width:850px;
+	margin-top:20px;
+}
+#post-detail{
+	margin-left: 10px;
+}
+#post-detail h2{
+	padding:20px 0;
+}
+#post-detail h3{
+	padding-bottom:10px;
+	color: #84B5D8;
+}
+#post-detail p{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: 300;
+}
+#post-comment{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	margin-top:30px;
+	border-top: 1px solid #EEEEEE;
+	border-bottom: 1px solid #EEEEEE;
+}
+#comment-ul{
+	list-style: none;
+}
+#comment-ul li{
+	float: left;
+	margin-left:30px ;
+	margin-right: 160px;
+}
+#comment-ul li a{
+	color: #84C5EA;
+}
+
+
+
+
+
+
+
+
+
+#comments-sidebar h3{
+	font-family: sans-serif;
+	font-weight: 300;
+	padding:10px 0;
+	border-bottom: 3px solid #ececec;
+	font-size: 18px;
+}
+.media{
+	width: 100%;
+	height:100px;
+	padding-top:1px;
+	border-bottom: 1px solid #ececec;
+}
+.pull-left{
+	width: 52px;
+	height: 52px;
+	float: left;
+	margin:20px 0;
+}
+.pull-left img{
+	width: 52px;
+	height:52px;
+}
+.media-body{
+	margin-top:12px;
+	margin-left: 10px;
+	width:230px;
+	float: left;
+}
+.media-body h4{
+	font-size:18px;
+	font-weight:300;
+	font-family: sans-serif;
+}
+.media-body h4 a{
+	font-size: 16px;
+}
+.media-body p{
+	font-size: 12px;
+}
+
+#categories-sidebar{
+	width: 100%;
+	margin-top:80px;
+	text-indent: 10px;
+}
+#categories-sidebar h3{
+	font-family: sans-serif;
+	font-weight: 300;
+	padding:10px 0;
+	border-bottom: 3px solid #ececec;
+	font-size: 18px;
+}
+#cate-ul{
+	list-style: none;
+}
+#cate-ul li{
+	height: 39px;
+	line-height: 40px;
+	font-family: sans-serif;
+	font-weight: 300;
+	border-bottom: 1px solid #ececec;
+}
+#cate-ul li span{
+	display: block;
+	float: right;
+	margin-right: 10px;
+}
+

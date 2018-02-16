@@ -1,0 +1,132 @@
+.title {
+	height: 130px;
+	background: url(../img/question/tour-bg.png);
+}
+body{
+	font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.title h3 {
+	color: #404040;
+	font-weight: 300;
+	font-size: 36px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.title p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 22px;
+	color: #000;
+}
+
+.QABlock {
+	width: 400px;
+}
+
+.QABlockCon h3 {
+	color: #686868;
+	font-size: 24px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+		line-height: 40px;
+	margin-top:14px;
+}
+.media img{
+	width:52px;
+	height:52px;
+}
+.QABlockCon a.post-author {
+	display: block;
+	color: #337ab7;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	margin-top:10px;
+}
+.QABlock{
+	padding-right:40px;
+	padding-bottom: 30px;
+}
+.QABlockCon p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 22px;
+	color: #000;
+	margin-top:10px;
+	line-height: 20px;
+	margin-bottom: 6px;
+}
+.read-more{
+	  color: #0099AE;
+    font-weight: 300;
+    font-size:14px;
+    margin-top:6px;
+}
+.QABlockPic img{
+	width:400px;
+	height:220px;
+}
+.sidebar{
+	width:300px;
+	
+}
+.sidebar-item{
+	margin-bottom: 40px;
+}
+.contentBody{
+	width:880px;
+}
+.media{
+	margin-top:30px;
+	border-bottom: 1px solid #ececec;
+	padding-bottom: 10px;
+}
+.sidebar-item h3{
+	 color: #404040;
+    margin-top: 0;
+    border-bottom: 3px solid #ececec;
+    margin-bottom: 6px;
+    padding-bottom: 8px;
+}
+.media-body{
+	width:200px;
+	padding-left:30px;
+}
+.media-body h4 a{
+	    color: #7d7d7d;
+    font-size: 14px;
+    
+}
+.media-body p{
+	    color: #b4b4b4;
+    font-size: 12px;
+    margin-top:10px;
+}
+.sidebar h3{
+	    color: #404040;
+    margin-top: 0;
+    border-bottom: 3px solid #ececec;
+    margin-bottom: 6px;
+    padding-bottom: 8px;
+}
+.slider-item{
+	width:300px;
+}
+.categories_nav li a{
+	    font-size: 16px;
+    color: #6a6a6a;
+    padding: 8px 0;
+    padding-left: 0;
+}
+.categories_nav li{
+	border-bottom: 1px solid #ececec;
+	padding-bottom: 10px;
+	padding-top:10px;
+}
+.content{
+	padding-top: 30px;
+}

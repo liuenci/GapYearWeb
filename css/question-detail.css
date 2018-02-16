@@ -1,0 +1,32 @@
+.QA-body{
+	width:880px;
+	padding-bottom: 200px;
+}
+.QA-detialBody{
+	padding-top:100px;
+}
+.QA-header h2{
+	line-height: 60px;
+}
+.QA-header img{
+	width: 800px;
+	height:auto;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.main-point_title{
+	font-weight: bold;
+	padding-top:30px;
+	padding-bottom: 20px;
+	font-size:20px;
+}
+.main-point_con{
+	 font-family: "Avenir Next", "Avenir Next W00";
+    font-size: 16px;
+    line-height: 1.8em;
+    margin: 20px 0 20px 0px;
+        color: #333;
+        font-weight: 300;
+        padding-right: 60px;
+}
+   
